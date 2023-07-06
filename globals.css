@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    position: relative;
+    top: 40px;
+    z-index: 1;
+    flex-direction: column;
+    border-radius: 5px;
+    width: 70vw;
+    color: grey;
+
+}
+.tempcontainer{
+       background-color: rgb(71, 69, 69);
+       border-radius: 10px;height: 21vh;
+       width: 80vw;
+       margin-left: 25px;
+       box-shadow: inset 5px 8px rgb(55, 78, 86);
+       text-shadow: 1px 1px white;
+       border:3px solid white;
+}
+.tempcontainer h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+.tempcontainer h2{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    padding: 2px;
+}
+
+.condition{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color:rgb(71, 69, 69);
+    height: 25vh;
+    width: 80vw;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: 5px;
+    box-shadow: inset 5px 8px rgb(55, 78, 86);
+    text-shadow: 1px 1px white;
+    border:3px solid white;
+}
+.condition h1{
+    font-size: 23px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.condition img{
+      height: 80px;
+      width: 100px;
+}
+
+
+.bottomcontainer{
+    background-color:rgb(71, 69, 69);
+    border-radius: 10px;height: 21vh;
+    width: 80vw;
+    margin-left: 25px;
+    margin-top: 5px;
+    box-shadow: inset 5px 8px rgb(55, 78, 86);
+    text-shadow: 1px 1px white;
+    border:3px solid white;
+}
+.bottomcontainer h1{
+ text-align: center;
+ font-size: 25px;
+ font-weight: 600;
+}
+.bottomcontainer h2{
+ text-align: center;
+ font-size: 22px;
+ font-weight: 600;
+ padding: 2px;
+}
