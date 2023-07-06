@@ -1,3 +1,4 @@
+![Screenshot (1119)](https://github.com/RiteshGangwar2022/weather-next-app/assets/116111183/94d6b33e-2afc-43ce-a526-de70889b5c7b)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
